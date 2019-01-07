@@ -30,7 +30,7 @@ repositories {
 }
 
 bootJar {
-	baseName = 'katas'
+	baseName = 'empty-gradle-release'
 	version =  '0.1.0'
 }
 
